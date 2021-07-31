@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Premium Courses for FREE</title>
+    <title><h1>Premium Courses for FREE</h1></title>
 </head>
 <body>
     
 
-<h3 font-color="blue">REACT.JS</h3>
+<h3>REACT.JS</h3>
 <p>https://scrimba.com/learn/learnreact#</p>
 <br>
 <h3>WEB DEVELOPMENT BOOTCAMP 2020</h3>
@@ -23,6 +23,8 @@
     
 </body>
 </html>
+
+
 
 
 
