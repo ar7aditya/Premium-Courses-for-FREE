@@ -9,7 +9,7 @@
 <body>
     
 
-<h3>REACT.JS</h3>
+<h3 font-color="blue">REACT.JS</h3>
 <p>https://scrimba.com/learn/learnreact#</p>
 <br>
 <h3>WEB DEVELOPMENT BOOTCAMP 2020</h3>
