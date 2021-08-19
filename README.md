@@ -20,7 +20,9 @@
 <h3>Mosh node course</h3>
 <p>https://mega.nz/folder/VnhQFIpJ#MXpb285Rzpbnq2adkPVt9Q/folder/kjoyBTLY</p>
 <br>
-
+<h3>Courses and Placement Material (CS & IT)</h3>
+<p>https://mega.nz/folder/AbhkUBoK#huCbUVSiVCCY_DFwaM0_2A/folder/gaRz1aKC</p>
+<br>
     
   
 
