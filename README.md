@@ -23,7 +23,9 @@
 <h3>Courses and Placement Material (CS & IT)</h3>
 <p>https://mega.nz/folder/AbhkUBoK#huCbUVSiVCCY_DFwaM0_2A/folder/gaRz1aKC</p>
 <br>
-    
+ <h3>DSA geeksforgeeks course </h3>
+ <p>https://mega.nz/folder/rhNAHQ5C#W9413mb0mdL6hnF6KmhHyA/folder/OwVgjaxL</p>
+ <br>
   
 
     
