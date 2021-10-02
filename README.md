@@ -5,7 +5,7 @@
 <h3>REACT.JS</h3>
 <p>https://scrimba.com/learn/learnreact#</p>
 <br>
-<h3>WEB DEVELOPMENT BOOTCAMP 2020 (App Brewery)</h3>
+<h3>WEB DEVELOPMENT BOOTCAMP 2020 (App Brewery/Udemy)</h3>
 <p>https://mega.nz/folder/CeQTUIQL#GRc0M8fMj_xEfg4RbJV7TQ</p>
 <br>
 <h3>C++ Beginner to Advance (Udemy)</h3>
